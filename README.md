@@ -1,0 +1,2 @@
+# GC
+Geometrie computațională - laborator
