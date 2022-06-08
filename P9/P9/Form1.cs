@@ -96,6 +96,7 @@ namespace P9
                         break;
                     }
                 }
+
             triangles.Add(new Tuple<Point, Point, Point>(p[n - 1], p[n - 2], p[0]));
             if (cn > 3)
                 label3.Text = Convert.ToString(aria_poligon);
