@@ -17,7 +17,6 @@ namespace P9
         int n = 0, cn;
         List<Point> p = new List<Point>();
         List<Point> puncte = new List<Point>();
-        List<Tuple<int, int, int>> indexinitial = new List<Tuple<int, int, int>>();
         List<Tuple<Point, Point, Point>> triangles = new List<Tuple<Point, Point, Point>>();
         bool poligon_inchis = false;
 
